@@ -1,3 +1,5 @@
+Passo a passo para subir códigos para o GitHub 
+
 COMANDOS TERMINAL LINUX
 
 ls -> comando para mostrar em que pasta estamos
@@ -6,9 +8,9 @@ cd -> comando para entrar na pasta desejada
 
 COMANDOS GIT
 
-git clone + Url do repositorio -> comando para fazer uma copia do repositorio no GitHub
 
-git status -> comando para visualizar o estado do repositorio local
-git add . -> comando para adicionar alteracoes feitas no repositorio
-git commit -m -> "mensagem descrevendo as alteracoes" -> comando para descrever o trabalho feito no repositorio 
-git push -> comando para upar alteracoes do repositorio
+git status -> comando para visualizar o estado do repositório local
+git add . -> comando para adicionar alteracoes feitas no repositório
+git status
+git commit -m "mensagem descrevendo as alteracoes" -> comando para descrever o trabalho feito no repositório 
+git push -> comando para upar alteracoes do repositório
